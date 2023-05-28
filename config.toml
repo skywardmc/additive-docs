@@ -1,4 +1,4 @@
-baseurl = "https://additive.intergrav.xyz"
+baseurl = "https://intergrav.xyz/additive-docs"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
