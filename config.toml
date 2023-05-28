@@ -64,7 +64,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Additive"
-    subtitle = "Modern, open-source, OptiFine alternative for Minecraft"
+    subtitle = "Modern, open-source OptiFine alternative for Minecraft"
     owner = ""
     keywords = ""
     copyright = ""
