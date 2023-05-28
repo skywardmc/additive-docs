@@ -87,3 +87,11 @@ paginate = 5
         identifier = "downloads"
         name = "Downloads"
         url = "/downloads"
+      [[languages.en.menu.main]]
+        identifier = "wiki"
+        name = "Wiki"
+        url = "https://github.com/intergrav/Additive/wiki"
+      [[languages.en.menu.main]]
+        identifier = "Modrinth"
+        name = "Modrinth"
+        url = "https://modrinth.com/project/Additive"
