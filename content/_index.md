@@ -1,3 +1,5 @@
+# What is this?
+
 Additive is a simple, modern, open-source alternative to OptiFine. It has basically every feature from OptiFine, including:
 
 - A very high improvement in performance, faster than OptiFine
@@ -18,3 +20,7 @@ There are also these other features:
 - Fast updates
 
 For all information, read through the [Modrinth page](https://modrinth.com/modpack/additive).
+
+# How do I get it?
+
+For installation and file downloads, see [this page](./downloads).

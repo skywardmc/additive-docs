@@ -1,4 +1,4 @@
-baseurl = "https://intergrav.xyz/additive-docs"
+baseurl = "https://additive.intergrav.xyz"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
@@ -80,7 +80,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Additive"
-      logoHomeLink = "/"
+      logoHomeLink = "/additive-docs"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
