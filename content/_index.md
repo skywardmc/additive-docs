@@ -19,8 +19,8 @@ There are also these other features:
     - This allows you to disable features that are incompatible with other mods, or features you don't like
 - Fast updates
 
-For all information, read through the [Modrinth page](https://modrinth.com/modpack/additive).
+For more information, read through the [Modrinth page](https://modrinth.com/modpack/additive).
 
 # How do I get it?
 
-For installation and file downloads, see [this page](./downloads).
+For installation and downloads, see [this page](./downloads). It provides an installer for the Mojang launcher, and also instructions for third-party launchers.
