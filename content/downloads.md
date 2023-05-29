@@ -7,7 +7,7 @@ Additive is distributed on Modrinth. You can install it from Modrinth through ou
 
 # Installing for the Mojang launcher
 
-If you don't want to install any third-party stuff, you can use the Additive installer which lets you select a version to download and install to the Minecraft launcher. This installer is made by Gaming32 - please go [here](https://github.com/Gaming32/additive-installer/issues) to report issues and suggest features for the project.
+If you don't want to install any third-party stuff, you can use the Additive installer which lets you select a version to download and install to the Minecraft launcher. You can also choose to install Adrenaline through here. This installer is made by Gaming32 - please go [here](https://github.com/Gaming32/additive-installer/issues) to report issues and suggest features for the project.
 
 > [Download universal '.jar'](https://github.com/Gaming32/additive-installer/releases/download/v1.0.0/additive-installer-1.0.0.jar) (Windows, MacOS, Linux, etc)
 
@@ -20,6 +20,6 @@ Assuming you [already have it set up](https://prismlauncher.org/wiki/getting-sta
 1. Click "+ Add Instance"
 2. Click the "Modrinth" tab
 3. Select either Additive for performance and OptiFine features, *or* Adrenaline for strictly performance features.
-4. Select the version you want at the bottom left of the dialog.
+4. Select the version you want at the bottom right of the dialog.
 5. Click "OK" to start installing.
 6. Open the instance to play!
