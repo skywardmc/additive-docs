@@ -7,7 +7,7 @@ Additive is distributed on Modrinth. You can install it from Modrinth through ou
 
 # Installing for the Mojang launcher
 
-If you don't want to install any third-party stuff, you can use the Additive installer which lets you select a version to download and install to the Minecraft launcher. This is an unofficial installer made by Gaming32 - please go [here](https://github.com/Gaming32/additive-installer/issues) to report issues and suggest features for the installer.
+If you don't want to install any third-party stuff, you can use the Additive installer which lets you select a version to download and install to the Minecraft launcher. This installer is made by Gaming32 - please go [here](https://github.com/Gaming32/additive-installer/issues) to report issues and suggest features for the project.
 
 > [Download universal '.jar'](https://github.com/Gaming32/additive-installer/releases/download/v1.0.0/additive-installer-1.0.0.jar) (Windows, MacOS, Linux, etc)
 
