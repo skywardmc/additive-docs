@@ -20,6 +20,6 @@ Assuming you [already have it set up](https://prismlauncher.org/wiki/getting-sta
 1. Click "+ Add Instance"
 2. Click the "Modrinth" tab
 3. Select either Additive for performance and OptiFine features, *or* Adrenaline for strictly performance features.
-4. Select the version you want at the bottom left of the dialog.
+4. Select the version you want at the bottom right of the dialog.
 5. Click "OK" to start installing.
 6. Open the instance to play!
