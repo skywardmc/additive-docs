@@ -11,7 +11,7 @@ paginate = 5
   themeColor = "red"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 5
+  showMenuItems = 2
 
   # show selector to switch language
   showLanguageSelector = false
@@ -83,17 +83,35 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 1
+      [[languages.en.menu.main]]
         identifier = "downloads"
         name = "Downloads"
         url = "/downloads"
+        weight = 2
       [[languages.en.menu.main]]
         identifier = "wiki"
         name = "Wiki"
         url = "https://github.com/intergrav/Additive/wiki"
+        weight = 3
       [[languages.en.menu.main]]
         identifier = "Modrinth"
         name = "Modrinth"
         url = "https://modrinth.com/project/Additive"
+        weight = 4
+      [[languages.en.menu.main]]
+        identifier = "discord"
+        name = "Discord"
+        url = "https://discord.gg/36Tv44cYte"
+        weight = 5
+      [[languages.en.menu.main]]
+        identifier = "issues"
+        name = "Issues"
+        url = "https://github.com/intergrav/Additive/issues"
+        weight = 6
 
 [module]
   replacements = "github.com/panr/hugo-theme-terminal -> themes/terminal"
