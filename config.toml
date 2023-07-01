@@ -51,21 +51,13 @@ paginate = 5
   # can be overridden in a page's front-matter
   # TocTitle = "Table of Contents" # default
 
-
-[params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
-  creator = ""
-  site = ""
-
 [languages]
   [languages.en]
     languageName = "English"
     title = "Additive"
-    subtitle = "Modern, open-source OptiFine alternative for Minecraft"
-    owner = ""
-    keywords = ""
+    subtitle = "Enhance your Minecraft experience with Additive - the modern, open-source OptiFine alternative modpack, built on Fabric and Quilt."
+    owner = "intergrav"
+    keywords = "Minecraft, OptiFine, Additive, Modrinth, Fabric, Quilt"
     copyright = ""
     menuMore = "Show more"
     readMore = "Read more"

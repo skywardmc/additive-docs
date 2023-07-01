@@ -1,6 +1,6 @@
 +++
 title = "Downloads"
-description = "The page to get Additive from"
+description = "The page to download Additive from. Install for the default Minecraft launcher or a custom third-party launcher - your choice."
 +++
 
 Additive is distributed on Modrinth. You can install it from Modrinth through our standalone installer, or any third-party launcher that supports Modrinth packs.

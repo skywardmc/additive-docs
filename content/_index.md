@@ -1,3 +1,8 @@
++++
+title = "Additive"
+description = "Enhance your Minecraft experience with Additive - the modern, open-source OptiFine alternative modpack, built on Fabric and Quilt."
++++
+
 # What is this?
 
 Additive is a simple, modern, open-source alternative to OptiFine. It has basically every feature from OptiFine, including:
@@ -16,7 +21,7 @@ There are also these other features:
 - Free, simple world hosting
     - Simply click "Open Externally" in the menu of your world, and you'll get a shareable IP
 - Modularity
-    - This allows you to disable features that are incompatible with other mods, or features you don't like
+    - This allows you to disable features that are incompatible with other mods, or features you don't like, it also allows Additive to get partial releases faster than OptiFine
 - Fast updates
 
 For more information, read through the [Modrinth page](https://modrinth.com/modpack/additive).
