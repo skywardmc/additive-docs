@@ -1,13 +1,9 @@
 <footer class="footer">
     <div class="footer__inner">
-      {{ if $.Site.Copyright }}
-        <div class="copyright copyright--user">
-          <span>{{ $.Site.Copyright | safeHTML }}</span>
-      {{ else }}
         <div class="copyright">
-          <span>© {{ now.Year }} <a href="https://github.com/intergrav" target="_blank">intergrav</a></span>
-      {{ end }}
-        <span>:: Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.</span>
+        <span>© {{ now.Year }} <a href="https://github.com/intergrav" target="_blank">intergrav</a></span>
+        <div class="copyright">
+        <span>Not approved by or associated with Mojang or Microsoft.</span>
         </div>
     </div>
   </footer>
