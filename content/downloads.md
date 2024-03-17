@@ -5,7 +5,7 @@ description = "The page to download Additive from. Install for the default Minec
 
 Additive is distributed on Modrinth. You can install it through any third-party launcher that supports Modrinth packs, or through our standalone installer for the Mojang launcher.
 
-Before installing either Adrenaline or Additive, make sure to read Sodium's [Driver Compatibility](https://github.com/CaffeineMC/sodium-fabric/wiki/Driver-Compatibility) page if you are on an old device to prevent issues.
+**Before installing either Adrenaline or Additive, make sure to read Sodium's [Driver Compatibility](https://github.com/CaffeineMC/sodium-fabric/wiki/Driver-Compatibility) page if you are on an old device to prevent issues.**
 
 # Installing with third-party launchers
 
